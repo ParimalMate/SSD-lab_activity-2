@@ -12,4 +12,4 @@
    - CALL PrintAllSubscribersHistory();
 
 ## Git Repository Link
-https://github.com/<your-username>/<repo-name>
+https://github.com/ParimalMate/SSD-lab_activity-2
